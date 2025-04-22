@@ -10,7 +10,13 @@ namespace dsa_alg
     {
         public string ReverseAString()
         {
-            
+            char[] charArray;
+            string userInput = Console.ReadLine();
+            charArray = userInput.ToCharArray();
+
+            Array.Reverse(charArray);
+            Console.WriteLine($"The original input was {userInput}, and the output is: {new string(charArray)}");
+            return new string(charArray);
         }
     }
 }
