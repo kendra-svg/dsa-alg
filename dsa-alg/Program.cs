@@ -15,5 +15,8 @@
 
 //listProcessor.ListSorterRefactoredOptimizedApproach();
 
-var pivot = new PivotInIndex();
-pivot.Finder();
+//var pivot = new PivotInIndex();
+//pivot.Finder();
+
+var array = new MissingNumberFromArray();
+array.Finder();
