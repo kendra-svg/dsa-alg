@@ -9,8 +9,14 @@
 //var palindromeChecker = new Palindrome();
 //palindromeChecker.isPalindrome();
 
-var listProcessor = new SortedLists();
+//var listProcessor = new SortedLists();
 //listProcessor.ListSorterBruteForce();
 // listProcessor.ListSorterOptimizedApproach();
 
-listProcessor.ListSorterRefactoredOptimizedApproach();
+//listProcessor.ListSorterRefactoredOptimizedApproach();
+
+//var pivot = new PivotInIndex();
+//pivot.Finder();
+
+var array = new MissingNumberFromArray();
+array.Finder();
