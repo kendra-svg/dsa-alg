@@ -22,4 +22,7 @@
 //array.Finder();
 
 var majorityElement = new MajorityElement();
-majorityElement.Find();
+//majorityElement.Find();
+
+//majorityElement.FindUsingDictionary();
+majorityElement.FindUsingLists();
