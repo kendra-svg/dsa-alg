@@ -28,4 +28,6 @@
 //majorityElement.FindUsingLists();
 
 var dup = new DuplicatesOnSortedArray();
-dup.Remove();
+//dup.Remove();
+
+dup.RemoveUsingLists();
