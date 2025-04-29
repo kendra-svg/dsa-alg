@@ -21,8 +21,11 @@
 //var array = new MissingNumberFromArray();
 //array.Finder();
 
-var majorityElement = new MajorityElement();
+//var majorityElement = new MajorityElement();
 //majorityElement.Find();
 
 //majorityElement.FindUsingDictionary();
-majorityElement.FindUsingLists();
+//majorityElement.FindUsingLists();
+
+var dup = new DuplicatesOnSortedArray();
+dup.Remove();
