@@ -18,5 +18,16 @@
 //var pivot = new PivotInIndex();
 //pivot.Finder();
 
-var array = new MissingNumberFromArray();
-array.Finder();
+//var array = new MissingNumberFromArray();
+//array.Finder();
+
+//var majorityElement = new MajorityElement();
+//majorityElement.Find();
+
+//majorityElement.FindUsingDictionary();
+//majorityElement.FindUsingLists();
+
+var dup = new DuplicatesOnSortedArray();
+//dup.Remove();
+
+dup.RemoveUsingLists();
